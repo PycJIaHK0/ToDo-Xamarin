@@ -1,0 +1,20 @@
+c:\users\uver2\onedrive\documents\visual studio 2017\Projects\ToDoList v0.1\ToDoList v0.1\bin\Debug\ToDoList v0.1.dll
+c:\users\uver2\onedrive\documents\visual studio 2017\Projects\ToDoList v0.1\ToDoList v0.1\bin\Debug\ToDoList v0.1.pdb
+c:\users\uver2\onedrive\documents\visual studio 2017\Projects\ToDoList v0.1\ToDoList v0.1\bin\Debug\ToDoList_v0.x_1.ToDoList_v0.x_1.apk
+c:\users\uver2\onedrive\documents\visual studio 2017\Projects\ToDoList v0.1\ToDoList v0.1\bin\Debug\ToDoList_v0.x_1.ToDoList_v0.x_1-Signed.apk
+c:\users\uver2\onedrive\documents\visual studio 2017\Projects\ToDoList v0.1\ToDoList v0.1\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\users\uver2\onedrive\documents\visual studio 2017\Projects\ToDoList v0.1\ToDoList v0.1\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+c:\users\uver2\onedrive\documents\visual studio 2017\Projects\ToDoList v0.1\ToDoList v0.1\obj\Debug\ToDoList v0.1.dll
+c:\users\uver2\onedrive\documents\visual studio 2017\Projects\ToDoList v0.1\ToDoList v0.1\obj\Debug\ToDoList v0.1.pdb
+c:\users\uver2\onedrive\documents\visual studio 2017\Projects\ToDoList v0.1\ToDoList v0.1\obj\Debug\android\bin\ToDoList_v0.x_1.ToDoList_v0.x_1.apk
+c:\users\uver2\onedrive\documents\visual studio 2017\Projects\ToDoList v0.1\ToDoList v0.1\obj\Debug\res\layout\raw.xml
+c:\users\uver2\onedrive\documents\visual studio 2017\Projects\ToDoList v0.1\ToDoList v0.1\obj\Debug\res\layout\main.xml
+c:\users\uver2\onedrive\documents\visual studio 2017\Projects\ToDoList v0.1\ToDoList v0.1\obj\Debug\res\values\strings.xml
+c:\users\uver2\onedrive\documents\visual studio 2017\Projects\ToDoList v0.1\ToDoList v0.1\obj\Debug\res\drawable\icon.png
+c:\users\uver2\onedrive\documents\visual studio 2017\Projects\ToDoList v0.1\ToDoList v0.1\obj\Debug\res\menu\menu_item.xml
+c:\users\uver2\onedrive\documents\visual studio 2017\Projects\ToDoList v0.1\ToDoList v0.1\obj\Debug\R.cs.flag
+c:\users\uver2\onedrive\documents\visual studio 2017\Projects\ToDoList v0.1\ToDoList v0.1\obj\Debug\uploadflags.txt
+c:\users\uver2\onedrive\documents\visual studio 2017\Projects\ToDoList v0.1\ToDoList v0.1\bin\Debug\ToDoList v0.1.dll.mdb
+c:\users\uver2\onedrive\documents\visual studio 2017\Projects\ToDoList v0.1\ToDoList v0.1\obj\Debug\android\assets\ToDoList v0.1.dll.mdb
+c:\users\uver2\onedrive\documents\visual studio 2017\Projects\ToDoList v0.1\ToDoList v0.1\obj\Debug\ToDoList v0.1.csprojResolveAssemblyReference.cache
+D:\ToDoList v0.1\ToDoList v0.1\obj\Debug\ToDoList v0.1.csprojResolveAssemblyReference.cache
